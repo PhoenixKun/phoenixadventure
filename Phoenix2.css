@@ -1,47 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Oregano);
-
-body {
-    text-align: center;
-    font-size: 3em;
-    font-family: 'Oregano', cursive;
-}
-
-li {
-    text-align: left;
-}
-
-a, a:visited {
-    color: blue;
-}
-
-.icon {
-    width: 128px;
-    height: 128px;
-    margin: 2px;
-    display: inline-block;
+body{
+background-image: url(crossroads-in-the-field-1111.jpg);
     background-repeat: no-repeat;
-}
-
-.icon.fail {
-    background-color: red;
-}
-
-.icon.wolf {
-    background-image: url(img/ware_wolf.png);
-}
-
-.icon.goat {
-    background-image: url(img/goat.png);
-}
-
-.icon.cabbage {
-    background-image: url(img/lettuce.png);
-}
-
-.icon.river {
-    background-image: url(img/ele_water.png);
-}
-
-.icon.boat {
-    background-image: url(img/boat.png);
+    background-position: bottom left;
+    margin-right: 200px;  
 }
