@@ -4,3 +4,29 @@ background-image: url(crossroads-in-the-field-1111.jpg);
     background-position: bottom left;
     margin-right: 200px;  
 }
+
+div.Life{
+    position: relative;
+    top: 100px;
+    position: relative;
+    left: 100px;
+    font-size: 20px
+}
+
+div.Death{
+    position: relative;
+    top: 100px;
+    position: relative;
+    left: 300;
+    font-size: 20px
+}
+
+div.Rebirth{
+    position: relative;
+    top: 100;
+    position: relative;
+    left: 300px;
+    font-size: 20px
+}
+a {color: red}
+p{font-size: 25px}
