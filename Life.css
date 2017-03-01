@@ -6,8 +6,20 @@ body{ background-image: url(Life-and-death.jpg);
 
 }
 
-div.Life {
+div.Life2{
     position: relative;
-    left: 30px;
-    border: 3px solid black;
+    top: 100px;
+    position: relative;
+    left: 100px;
+    font-size: 20px
 }
+
+div.Die{
+    position: relative;
+    top: 100px;
+    position: relative;
+    left: 300;
+    font-size: 20px
+}
+p{font-size: 25px}
+p{color: royalblue}
