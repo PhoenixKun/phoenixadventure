@@ -3,8 +3,14 @@ body{ background-image: url(old-tavern.jpg);
     margin-right: 200px;
     background-size:cover}
 
+div.Fight{
+    font-size: 35px;
+    
+}
+
 p{
     color:ivory;
     font-size: 40px;
     
 }
+a{color: ivory}
