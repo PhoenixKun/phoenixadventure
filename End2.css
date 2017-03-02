@@ -3,6 +3,13 @@ body{ background-image: url(Chuunibyou-12_11-Yuuta-reality-change.jpg);
     margin-right: 200px;
     background-size:cover}
 
+div.Restart{
+    position: relative;
+    top:400px;
+    left:500px;
+    font-size: 30px;
+}
+
 p{position: relative;
   top: 400px;
    left: 500px;

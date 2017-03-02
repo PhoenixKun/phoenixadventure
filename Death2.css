@@ -6,21 +6,23 @@ body{ background-image: url(Glasgow-Necropolis-1.jpg);
 
 }
 
-div.Live{
+div.Tavern{
     position: relative;
-    top: 100px;
+    top: 46;
     position: relative;
-    left: 100px;
+    left: 400px;
     font-size: 20px
 }
 
-div.Die{
+div.Walk{
     position: relative;
-    top: 100px;
+    top: 23px;
     position: relative;
-    left: 300;
+    left: 700;
     font-size: 20px
 }
+div.Restart{font-size: 20}
+
 a{color: red}
 p{font-size: 25px}
 p{color: wheat}

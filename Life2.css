@@ -1,13 +1,18 @@
-body{ background-image: url(Life-and-death.jpg);
-   background-position:;
+body{ background-image: url(184-800.jpg);
+   background-position:bottom;
     margin-right: 200px;
     background-size: cover
 
 
 }
 
-div.Life {
+div.Accept {
     position: relative;
-    left: 30px;
-    border: 3px solid black;
+    left: 300px;
+    font-size: 30
+   
 }
+
+p{font-size: 20px}
+p{color: ivory}
+a{color: ivory}

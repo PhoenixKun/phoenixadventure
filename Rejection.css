@@ -1,0 +1,17 @@
+body{ background-image: url(B0EtSTNCIAIyni3.jpg);
+   background-position:center;
+    margin-right: 200px;
+    background-size:cover}
+
+
+div.Fail{
+    position: relative;
+    top: 100px;
+    position: relative;
+    left: 755px;
+    font-size: 40px
+}
+a{color: fuchsia}
+p{color: rosybrown;
+font-family: fantasy;
+ font-size: 50px}
