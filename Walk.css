@@ -8,10 +8,17 @@ div.Fight{
     
 }
 
+div.walk{
+    position:relative;
+    left:300px;
+    bottom:33px
+}
+
 p{
     color:ivory;
     font-size: 40px;
     
 }
-a{color: ivory}
+a{color: ivory; font-size: 30px}
 h1{color: ivory}
+h2{color: ivory
